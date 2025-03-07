@@ -56,7 +56,7 @@ namespace StudentManagementSystem.Tests
             var students = _service.GetAllStudents();
 
             // Assert
-            Assert.That(10 == students.Count); // 10 studentów z GetStudents
+            Assert.That(10 == students.Count);
             Assert.That(students.Any(s => s.FirstName == "Anna" && s.LastName == "Kowalska") == true);
             Assert.That(students.Any(s => s.FirstName == "Piotr" && s.LastName == "Nowak") == true);
         }
