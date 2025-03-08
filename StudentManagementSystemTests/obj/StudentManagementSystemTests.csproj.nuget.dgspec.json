@@ -14,10 +14,12 @@
         "outputPath": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\athos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -97,28 +100,12 @@
         "projectUniqueName": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
         "projectName": "StudentManagementSystem",
         "projectPath": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\athos\\.nuget\\packages\\",
-        "projectStyle": "PackagesConfig",
         "UsingMicrosoftNETSdk": false,
-        "configFilePaths": [
-          "C:\\Users\\athos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net48": {
             "projectReferences": {}
           }
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low"
-        },
-        "packagesConfigPath": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\packages.config"
+        }
       },
       "frameworks": {
         "net48": {}

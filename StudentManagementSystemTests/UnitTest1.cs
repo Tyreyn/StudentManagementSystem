@@ -43,12 +43,6 @@ namespace StudentManagementSystem.Tests
             contextField.SetValue(_service, _mockContext.Object);
         }
 
-        [TearDown]
-        public void TearDown()
-        {
-            _service.Dispose();
-        }
-
         [Test]
         public void GetAllStudents_ShouldReturnInitialStudents()
         {
@@ -56,7 +50,7 @@ namespace StudentManagementSystem.Tests
             var students = _service.GetAllStudents();
 
             // Assert
-            Assert.That(10 == students.Count);
+            Assert.That(students.Count().Equals(10));
             Assert.That(students.Any(s => s.FirstName == "Anna" && s.LastName == "Kowalska") == true);
             Assert.That(students.Any(s => s.FirstName == "Piotr" && s.LastName == "Nowak") == true);
         }
@@ -65,13 +59,13 @@ namespace StudentManagementSystem.Tests
         public void AddStudent_ShouldIncreaseStudentCount()
         {
             // Arrange
-            int initialCount = _service.GetAllStudents().Count;
+            int initialCount = _service.GetAllStudents().Count();
 
             // Act
             _service.AddStudent("Jan", "Kowalski");
 
             // Assert
-            int newCount = _service.GetAllStudents().Count;
+            int newCount = _service.GetAllStudents().Count();
             Assert.That(initialCount + 1 == newCount);
         }
 

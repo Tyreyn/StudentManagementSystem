@@ -6,13 +6,13 @@ using System.Web;
 
 namespace StudentManagementSystem.Services
 {
-    public class StudentService : IDisposable
+    public class StudentService
     {
         private readonly StudentContext _context;
 
-        public StudentService()
+        public StudentService(StudentContext context)
         {
-            _context = new StudentContext();
+            _context = context ?? throw new ArgumentNullException(nameof(context));
         }
 
         public void AddStudent(string firstName, string lastName)
@@ -31,14 +31,18 @@ namespace StudentManagementSystem.Services
             _context.SaveChanges();
         }
 
-        public List<Student> GetAllStudents()
+        public void DeleteStudent(Guid studentId)
         {
-            return _context.Students.ToList();
+            Student studentToDelete = new Student { StudentId = studentId };
+            _context.Students.Attach(studentToDelete);
+            _context.Students.Remove(studentToDelete);
+            _context.SaveChanges();
         }
 
-        public void Dispose()
+        public IList<Student> GetAllStudents()
         {
-            _context?.Dispose();
+            return _context.Students.AsNoTracking().ToList();
         }
+
     }
 }

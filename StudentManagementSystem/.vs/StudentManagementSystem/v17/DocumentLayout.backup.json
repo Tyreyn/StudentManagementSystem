@@ -3,72 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ADF5E88-C671-47EB-8B15-6B2C2956DB34}|..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystemtests\\studentmanagementsystemtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StudentManagementSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ADF5E88-C671-47EB-8B15-6B2C2956DB34}|..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystemtests\\studentmanagementsystemtests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ADF5E88-C671-47EB-8B15-6B2C2956DB34}|..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystemtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\models\\studentdatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:models\\studentdatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ADF5E88-C671-47EB-8B15-6B2C2956DB34}|..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystemtests\\testhost.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF5E88-C671-47EB-8B15-6B2C2956DB34}|..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystemtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\studentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:studentlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\migrations\\202503071111021_startingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:migrations\\202503071111021_startingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\migrations\\202503071048495_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:migrations\\202503071048495_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|c:\\users\\athos\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\models\\studentdatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DF9DCD-08BA-4221-861F-2BC2B8D1A07B}|StudentManagementSystem.csproj|solutionrelative:models\\studentdatabaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,116 +66,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAEwHAAAAAAAAAAAwwGAHAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-07T16:20:32.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwF8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-07T16:20:25.027Z",
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:12:26.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentManagementSystemTests",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "RelativeDocumentMoniker": "..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "RelativeToolTip": "..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-07T16:19:42.072Z",
+              "Title": "EditStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\EditStudent.aspx.cs",
+              "RelativeDocumentMoniker": "EditStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\EditStudent.aspx.cs*",
+              "RelativeToolTip": "EditStudent.aspx.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:07:18.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "StudentManagementSystem",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
-              "RelativeDocumentMoniker": "StudentManagementSystem.csproj",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
-              "RelativeToolTip": "StudentManagementSystem.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-07T16:10:25.143Z",
+              "Title": "EditStudent.aspx",
+              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\EditStudent.aspx",
+              "RelativeDocumentMoniker": "EditStudent.aspx",
+              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\EditStudent.aspx",
+              "RelativeToolTip": "EditStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-08T14:04:14.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "StudentManagementSystemTests",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "RelativeDocumentMoniker": "..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "RelativeToolTip": "..\\StudentManagementSystemTests\\StudentManagementSystemTests.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-07T12:07:20.694Z",
+              "Title": "StudentList.aspx",
+              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentList.aspx",
+              "RelativeDocumentMoniker": "StudentList.aspx",
+              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentList.aspx",
+              "RelativeToolTip": "StudentList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-08T08:17:10.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "testhost.dll.config",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\testhost.dll.config",
-              "RelativeDocumentMoniker": "..\\StudentManagementSystemTests\\testhost.dll.config",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\testhost.dll.config",
-              "RelativeToolTip": "..\\StudentManagementSystemTests\\testhost.dll.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-07T11:55:09.783Z",
+              "DocumentIndex": 4,
+              "Title": "StudentList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentList.aspx.cs",
+              "RelativeDocumentMoniker": "StudentList.aspx.cs",
+              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentList.aspx.cs",
+              "RelativeToolTip": "StudentList.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:45:29.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:36:11.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\StudentManagementSystemTests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\StudentManagementSystemTests\\UnitTest1.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwDsAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T11:45:02.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-07T12:14:20.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "StudentContext.cs",
               "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Models\\StudentContext.cs",
               "RelativeDocumentMoniker": "Models\\StudentContext.cs",
               "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Models\\StudentContext.cs",
               "RelativeToolTip": "Models\\StudentContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T15:34:04.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystemTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystemTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\StudentManagementSystemTests\\UnitTest1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:45:02.733Z",
               "EditorCaption": ""
             },
             {
@@ -211,105 +175,27 @@
               "RelativeDocumentMoniker": "Models\\StudentDatabaseInitializer.cs",
               "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Models\\StudentDatabaseInitializer.cs",
               "RelativeToolTip": "Models\\StudentDatabaseInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T10:24:16.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T12:14:11.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Services\\StudentService.cs",
-              "RelativeToolTip": "Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:36:11.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "202503071111021_startingdata.cs",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Migrations\\202503071111021_startingdata.cs",
-              "RelativeDocumentMoniker": "Migrations\\202503071111021_startingdata.cs",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Migrations\\202503071111021_startingdata.cs",
-              "RelativeToolTip": "Migrations\\202503071111021_startingdata.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T11:11:07.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "202503071048495_init.cs",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Migrations\\202503071048495_init.cs",
-              "RelativeDocumentMoniker": "Migrations\\202503071048495_init.cs",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Migrations\\202503071048495_init.cs",
-              "RelativeToolTip": "Migrations\\202503071048495_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:49:36.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Global.asax.cs",
-              "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAASwBYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:26:43.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:44:28.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T09:58:11.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\athos\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Site.Master",
               "RelativeDocumentMoniker": "Site.Master",
